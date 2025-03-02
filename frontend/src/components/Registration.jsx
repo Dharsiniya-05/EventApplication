@@ -52,7 +52,7 @@ const Registration = () => {
 
               <form onSubmit={handleSubmit}>
                 <div className="form-outline mb-4">
-                <label className="form-label">Your First Name</label>
+                <label className="form-label">First Name</label>
                   <input
                     type="text"
                     name="firstname"
@@ -63,7 +63,7 @@ const Registration = () => {
                 </div>
 
                 <div className="form-outline mb-4">
-                <label className="form-label">Your Last Name</label>
+                <label className="form-label"> Last Name</label>
                   <input
                     type="text"
                     name="lastname"
@@ -85,7 +85,7 @@ const Registration = () => {
                 </div>
 
                 <div className="form-outline mb-4">
-                <label className="form-label">Your Password</label>
+                <label className="form-label"> Password</label>
                   <input
                     type="password"
                     name="password"

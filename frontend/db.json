@@ -176,15 +176,20 @@
       "description": "A simple and elegant invite for volunteer and charity events."
     }
   ],
-  "registrations": [
-    {
-      "id": "cefc",
-      "brideName": "anu",
-      "groomName": "Ram",
-      "date": "2025-02-18",
-      "place": "sivakasi",
-      "time": "02:39",
-      "document": "No file uploaded"
-    }
-  ]
+
+
+
+
+
+            "registrations": [
+            {
+              "id": "cefc",
+              "brideName": "anu",
+              "groomName": "Ram",
+              "date": "2025-02-18",
+              "place": "sivakasi",
+              "time": "02:39",
+              "document": "No file uploaded"
+           }
+         ]
 }
